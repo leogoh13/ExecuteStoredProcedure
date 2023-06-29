@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<root>
+	<database>
+		<serverIP>10.104.8.85</serverIP>
+		<dataSource>10.104.8.85</dataSource>
+		<initialCatalog>JDE_CRP</initialCatalog>
+		<dbUserID>JDE</dbUserID>
+		<dbPassword>JDE</dbPassword>
+		<query>exec [dbo].[sp_F5541112]</query>
+	</database>
+</root>
